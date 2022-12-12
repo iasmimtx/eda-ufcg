@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/EDA---UFCG.iml" filepath="$PROJECT_DIR$/EDA---UFCG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/predecessor/predecessor.iml" filepath="$PROJECT_DIR$/predecessor/predecessor.iml" />
     </modules>
   </component>
 </project>

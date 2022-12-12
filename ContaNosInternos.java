@@ -20,7 +20,6 @@ public class ContaNosInternos {
         }
         return saida;
     }
-
 }
 
 class MyBST {
